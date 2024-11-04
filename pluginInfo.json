@@ -1,0 +1,18 @@
+{
+  "repoName": "megatree_test",
+  "name": "megatr.ee callback tester",
+  "author": "jthop <jh@mode14.com>",
+  "description": "Plugin to monitor playlist status",
+  "homeURL": "https://github.com/jthop/megatree_test",
+  "srcURL": "https://github.com/jthop/megatree_test",
+  "bugURL": "https://github.com/jthop/megatree_test/issues",
+  "versions": [
+    {
+      "minFPPVersion": "7.0",
+      "maxFPPVersion": "0",
+      "branch": "master",
+      "sha": "",
+      "allowUpdates": 1
+    }
+  ]
+}
